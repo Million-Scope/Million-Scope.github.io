@@ -1,2 +1,4 @@
-# Million-Scope.github.io
-Million-Scope.github.io
+# MillionScope
+
+
+MillionScope.github.io
